@@ -1,0 +1,16 @@
+{
+  "name": "GitBuddy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gage Sorrell <gsorrell@purdue.edu>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "./Application/*",
+    "./Package/**/*"
+  ],
+  "packageManager": "yarn@3.6.4",
+  "devDependencies": {
+    "turbo": "^2.1.2"
+  }
+}
