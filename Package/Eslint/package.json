@@ -1,0 +1,19 @@
+{
+  "name": "@gitbuddy/eslint",
+  "packageManager": "yarn@3.6.4",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^2.8.0",
+    "@types/eslint__eslintrc": "^2.1.2",
+    "@types/eslint__js": "^8.42.3",
+    "@typescript-eslint/experimental-utils": "^5.62.0",
+    "eslint": "^9.10.0",
+    "eslint-plugin-react": "^7.36.1",
+    "eslint-plugin-react-native": "^4.1.0",
+    "typescript": "^5.6.2",
+    "typescript-eslint": "^8.5.0"
+  }
+}

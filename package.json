@@ -1,7 +1,4 @@
 {
-  "name": "GitBuddy",
-  "version": "1.0.0",
-  "main": "index.js",
   "author": "Gage Sorrell <gsorrell@purdue.edu>",
   "license": "MIT",
   "private": true,

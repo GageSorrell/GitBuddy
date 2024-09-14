@@ -1,0 +1,16 @@
+{
+    "eslint.options":
+	{
+		"overrideConfigFile": "./Package/Eslint/Distribution/index.js"
+	},
+  	"eslint.enable": true,
+  	"eslint.workingDirectories":
+	[
+        { "!cwd": false, "directory": "**" }
+  	],
+	"eslint.validate":
+	[
+		"typescript",
+		"typescriptreact"
+	]
+}
